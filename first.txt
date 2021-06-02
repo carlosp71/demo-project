@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 asdasd -- changes
+=======
+>>>>>>> parent of 70a5aa7... new
